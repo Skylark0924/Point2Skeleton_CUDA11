@@ -1,0 +1,10 @@
+# ninja log v5
+0	19575	1675262349568500712	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/group_points_gpu.o	b58fb6b4ea5f80a7
+1	19575	1675262349568500712	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/sampling_gpu.o	2dca36c1507fb402
+0	19575	1675262349568500712	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/ball_query_gpu.o	6b94913463116838
+1	19575	1675262349568500712	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/interpolate_gpu.o	f4c6f38d255ab97
+0	19788	1675262349792498237	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/bindings.o	84bae0bf17ff55f2
+0	19872	1675262349876497308	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/ball_query.o	cce4f0df7f9431dd
+0	19878	1675262349876497308	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/group_points.o	dacf5075a37bd831
+0	19884	1675262349876497308	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/interpolate.o	4c926b929e5e96f8
+1	19892	1675262349880497264	/home/ubuntu/Github/Soft-Manipulation/Point2Skeleton/src/pointnet2/build/temp.linux-x86_64-cpython-37/_ext-src/src/sampling.o	3fd234db8b1fae43
