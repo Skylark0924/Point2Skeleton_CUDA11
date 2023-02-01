@@ -12,6 +12,7 @@ import FileRW as rw
 import MeshUtil as util
 import config as conf
 
+# torch.backends.cudnn.enabled = False
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Point2Skeleton')

@@ -2,3 +2,8 @@ data/*.ply
 data/*.txt
 weights/*.pth
 *.pyc
+.idea
+data/
+results/
+weights/
+tensorboard/
